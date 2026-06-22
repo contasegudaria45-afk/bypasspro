@@ -1,0 +1,13 @@
+{
+  "name": "bypasspro",
+  "version": "3.0.0",
+  "description": "BypassPro — desencurtador profissional de links com motor multi-provider. Made in Wesley.",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
